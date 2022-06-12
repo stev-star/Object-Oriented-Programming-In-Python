@@ -177,7 +177,7 @@ obj = Person()
 # Call the method
 obj.Hello()
 # Call the method with a parameter
-obj.Hello('Edureka')
+obj.Hello('Kim')
 ```
 
 ## Method Overriding
